@@ -3,9 +3,9 @@
 #with the correct path to this directory on your computer
 require 'pry'
 my_songs = {
-"Go Go GO" => 'Users/charlotte/Emerald-Park/01.mp3',
-"LiberTeens" => 'Users/charlotte/Emerald-Park/02.mp3',
-"Hamburg" =>  'Users/charlotte/Emerald-Park/03.mp3',
+"Go Go GO" => '../audio/Emerald-Park/01.mp3',
+"LiberTeens" => '../audio/Emerald-Park/02.mp3',
+"Hamburg" =>  '../audio/charlotte/Emerald-Park/03.mp3',
 "Guiding Light" => 'Users/charlotte/Emerald-Park/04.mp3',
 "Wolf" => 'Users/charlotte/Emerald-Park/05.mp3',
 "Blue" => 'Users/charlotte/Emerald-Park/06.mp3',
