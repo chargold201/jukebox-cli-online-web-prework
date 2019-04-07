@@ -3,13 +3,13 @@
 #with the correct path to this directory on your computer
 
 my_songs = {
-"Go Go GO" => '/jukebox-cli-online-web-prework/audio/Emerald-Park/01.mp3',
-"LiberTeens" => '/jukebox-cli-online-web-prework/audio/Emerald-Park/02.mp3',
-"Hamburg" =>  '/jukebox-cli-online-web-prework/audio/Emerald-Park/03.mp3',
-"Guiding Light" => '/jukebox-cli-online-web-prework/audio/Emerald-Park/04.mp3',
-"Wolf" => '/jukebox-cli-online-web-prework/audio/Emerald-Park/05.mp3',
-"Blue" => '/jukebox-cli-online-web-prework/audio/Emerald-Park/06.mp3',
-"Graduation Failed" => '/jukebox-cli-online-web-prework/audio/Emerald-Park/07.mp3'
+"Go Go GO" => '/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/01.mp3',
+"LiberTeens" => '/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/02.mp3',
+"Hamburg" =>  '/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/03.mp3',
+"Guiding Light" => '/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/04.mp3',
+"Wolf" => '/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/05.mp3',
+"Blue" => '/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/06.mp3',
+"Graduation Failed" => '/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/07.mp3'
 }
 
 def help
