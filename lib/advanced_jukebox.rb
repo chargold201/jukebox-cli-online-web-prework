@@ -63,9 +63,9 @@ def run(my_songs)
     response = gets.chomp
     case response
     when "list"
-      list(something)
+      list(my_songs)
     when "play"
-      play(something)
+      play(my_songs)
     when "help"
       help
     when "exit"
