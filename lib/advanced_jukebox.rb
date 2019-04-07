@@ -14,7 +14,11 @@ my_songs = {
 
 def help
   #this method should be the same as in jukebox.rb
-
+  puts "I accept the following commands:\n
+- help : displays this help message\n
+- list : displays a list of songs you can play\n
+- play : lets you choose a song to play\n
+- exit : exits this program"
 end
 
 
@@ -38,8 +42,25 @@ end
 
 def exit_jukebox
   #this method is the same as in jukebox.rb
+  puts "Goodbye"
 end
 
 def run(my_songs)
   #this method is the same as in jukebox.rb
+  help
+  response = ""
+  until response == "exit"
+    puts "Please enter a command:"
+    response = gets.chomp
+    case response
+    when "list"
+      list(something)
+    when "play"
+      play(something)
+    when "help"
+      help
+    when "exit"
+      exit_jukebox
+    end
+  end
 end
