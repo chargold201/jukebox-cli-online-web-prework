@@ -3,13 +3,13 @@
 #with the correct path to this directory on your computer
 
 my_songs = {
-"Go Go GO" => 'Users/charlotte/.atom/.learn-ide/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/01.mp3',
-"LiberTeens" => 'Users/charlotte/.atom/.learn-ide/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/02.mp3',
-"Hamburg" =>  'Users/charlotte/.atom/.learn-ide/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/03.mp3',
-"Guiding Light" => 'Users/charlotte/.atom/.learn-ide/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/04.mp3',
-"Wolf" => 'Users/charlotte/.atom/.learn-ide/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/05.mp3',
-"Blue" => 'Users/charlotte/.atom/.learn-ide/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/06.mp3',
-"Graduation Failed" => 'Users/charlotte/.atom/.learn-ide/home/plucky-stack-1676/jukebox-cli-online-web-prework/audio/Emerald-Park/07.mp3'
+"Go Go GO" => 'Users/charlotte/Emerald-Park/01.mp3',
+"LiberTeens" => 'Users/charlotte/Emerald-Park/02.mp3',
+"Hamburg" =>  'Users/charlotte/Emerald-Park/03.mp3',
+"Guiding Light" => 'Users/charlotte/Emerald-Park/04.mp3',
+"Wolf" => 'Users/charlotte/Emerald-Park/05.mp3',
+"Blue" => 'Users/charlotte/Emerald-Park/06.mp3',
+"Graduation Failed" => 'Users/charlotte/Emerald-Park/07.mp3'
 }
 
 def help
